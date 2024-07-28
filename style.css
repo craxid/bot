@@ -241,8 +241,8 @@ body {
 /*-----------------------parallax-----------------------*/
 /* credits: https://www.youtube.com/watch?v=aywzn9cf-_U */
 #stars1 {
-    width: 1px;
-    height: 1px;
+    width: 3px;
+    height: 3px;
     background: transparent;
     animation: animStar 120s linear infinite;
 
